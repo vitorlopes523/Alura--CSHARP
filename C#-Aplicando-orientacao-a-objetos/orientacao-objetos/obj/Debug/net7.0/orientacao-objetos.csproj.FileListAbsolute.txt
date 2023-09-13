@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\bin\Debug\net7.0\orientacao-objetos.exe
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\bin\Debug\net7.0\orientacao-objetos.deps.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\bin\Debug\net7.0\orientacao-objetos.runtimeconfig.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\bin\Debug\net7.0\orientacao-objetos.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\bin\Debug\net7.0\orientacao-objetos.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\refint\orientacao-objetos.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\orientacao-objetos.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Aplicando-orientacao-a-objetos\orientacao-objetos\obj\Debug\net7.0\ref\orientacao-objetos.dll

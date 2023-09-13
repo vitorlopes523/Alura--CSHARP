@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\bin\Debug\net7.0\numeros-pares.exe
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\bin\Debug\net7.0\numeros-pares.deps.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\bin\Debug\net7.0\numeros-pares.runtimeconfig.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\bin\Debug\net7.0\numeros-pares.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\bin\Debug\net7.0\numeros-pares.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\refint\numeros-pares.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\numeros-pares.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\numeros-pares\obj\Debug\net7.0\ref\numeros-pares.dll

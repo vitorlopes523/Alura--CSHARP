@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\bin\Debug\net7.0\screen-sound.exe
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\bin\Debug\net7.0\screen-sound.deps.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\bin\Debug\net7.0\screen-sound.runtimeconfig.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\bin\Debug\net7.0\screen-sound.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\bin\Debug\net7.0\screen-sound.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\refint\screen-sound.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\screen-sound.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Dominando-orientacao-a-objetos\screen-sound\obj\Debug\net7.0\ref\screen-sound.dll

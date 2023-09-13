@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\bin\Debug\net7.0\jogo.exe
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\bin\Debug\net7.0\jogo.deps.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\bin\Debug\net7.0\jogo.runtimeconfig.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\bin\Debug\net7.0\jogo.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\bin\Debug\net7.0\jogo.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\refint\jogo.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\jogo.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\jogo\obj\Debug\net7.0\ref\jogo.dll
