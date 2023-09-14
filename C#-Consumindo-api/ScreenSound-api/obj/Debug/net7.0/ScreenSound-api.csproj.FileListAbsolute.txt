@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\bin\Debug\net7.0\ScreenSound-api.exe
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\bin\Debug\net7.0\ScreenSound-api.deps.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\bin\Debug\net7.0\ScreenSound-api.runtimeconfig.json
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\bin\Debug\net7.0\ScreenSound-api.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\bin\Debug\net7.0\ScreenSound-api.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.AssemblyInfo.cs
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\refint\ScreenSound-api.dll
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.pdb
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ScreenSound-api.genruntimeconfig.cache
+C:\Users\vitor\Desktop\ALURA\Alura--CSHARP\C#-Consumindo-api\ScreenSound-api\obj\Debug\net7.0\ref\ScreenSound-api.dll
